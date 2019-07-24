@@ -1,0 +1,6 @@
+framework module InjectCode {
+  umbrella header "InjectCode.h"
+
+  export *
+  module * { export * }
+}
